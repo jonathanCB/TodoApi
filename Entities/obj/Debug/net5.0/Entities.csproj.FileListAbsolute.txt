@@ -1,0 +1,15 @@
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Geral\Google Drive\Faculdade\5º Semestre\Programação de Software Aplicado\Aula 18\Exercicio_API-Web-ASP.NET-Core\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
