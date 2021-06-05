@@ -11,5 +11,9 @@
     <WebStackScaffolding_DbContextTypeFullName>PL.Context.TodoContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_DbContextDialogWidth>650,4</WebStackScaffolding_DbContextDialogWidth>
+    <ActiveDebugProfile>TodoApi</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

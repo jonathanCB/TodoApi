@@ -30,6 +30,9 @@ namespace TodoApi
             //Interface e repositorio injecao dependencia
             services.AddTransient<ITodoItemDAO, TodoItemEF>();
             services.AddTransient<BusinesFacade, BusinesFacade>();
+
+            // Register the Swagger generator, defining 1 or more Swagger documents
+            services.AddSwaggerGen();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -52,6 +55,23 @@ namespace TodoApi
             {
                 endpoints.MapControllers();
             });
+
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
+            app.UseSwagger();
+
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
+            // specifying the Swagger JSON endpoint.
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
+
+            app.UseRouting();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
+
     }
 }
