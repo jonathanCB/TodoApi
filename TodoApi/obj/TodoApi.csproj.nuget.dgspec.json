@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\BLL.csproj": {
+    "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj": {
-                "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj"
               }
             }
           }
@@ -91,21 +91,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj": {
+    "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,21 +175,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj": {
+    "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj",
         "projectName": "PL",
-        "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj",
-        "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,8 +203,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\Entities\\Entities.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\Entities\\Entities.csproj"
               }
             }
           }
@@ -263,21 +263,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\TodoApi\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -291,11 +291,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\BLL\\BLL.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj": {
-                "projectPath": "C:\\Users\\Geral\\Google Drive\\Faculdade\\5º Semestre\\Programação de Software Aplicado\\Aula 18 - Exercício 3\\Exercicio_API-Web-ASP.NET-Core\\PL\\PL.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\TodoApi_\\PL\\PL.csproj"
               }
             }
           }
@@ -357,7 +357,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
